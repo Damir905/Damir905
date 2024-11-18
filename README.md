@@ -34,7 +34,7 @@
 ### 🏆: Достижения : 
 
 <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=Damir095" alt=""/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Damir95" alt=""/>
 </div>
 
 ### ⌨️: Наиболее используемые языки:
